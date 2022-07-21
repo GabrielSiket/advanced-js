@@ -1,4 +1,9 @@
-# Arrow Functions
+Advanced JavaScript Concepts
+
+Arrow Functions
+Spread, rest & destructuring
+Map, filter & reduce
+
 
 To use this repository:
 - Click the "Use this template" button in the upper right
